@@ -109,9 +109,11 @@ section {
     justify-content: space-between;
     gap: 30px;
     flex-wrap: wrap;
+
     margin-top: 40px;
 }
 
+/* cards// quero morrer // resolver dps*/
 .card {
     background-color: #fff;
     border-radius: 10px;
@@ -122,6 +124,7 @@ section {
     flex: 1;
     margin-bottom: 30px;
     min-width: 250px;
+
 }
 
 .card:hover {
